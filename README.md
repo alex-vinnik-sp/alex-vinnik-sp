@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alex-vinnik-sp
+- 👀 I’m interested in all Data and ML related things
+- 🌱 I’m currently learning SageMaker
+- 💞️ I’m looking to collaborate on SailPoint ML platform
+- 📫 Hit me on slack
